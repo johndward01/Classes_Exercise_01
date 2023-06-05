@@ -1,6 +1,4 @@
 ﻿
-
-
 #region TODOs 
 // TODO: Create a public Product class
 
@@ -14,7 +12,7 @@
 // TODO: Create a default constructor 
 // TODO: Create a parameterized constructor that initializes all of the properties
 
-// TODO: Create a method that displays all of the properties creatively
+// TODO: Create a public method that displays all of the properties creatively
 #endregion
 
 #region TODOs 
@@ -28,3 +26,13 @@
 // TODO: Create a private explicit implementation for the IEnumerable.GetEnumerator() method that returns an IEnumerator
 
 #endregion
+
+// TODO: Instanciate 3 products 1 using object initializer syntax, 1 using a parameterized constructor, and the last using dot notation
+// and give their properties values 
+
+
+
+// TODO: Instantiate 1 Products object and add all of the products to it
+
+
+// TODO: Use a foreach loop to iterate thru Products and call the ProductInfo() method 
